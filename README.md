@@ -4,6 +4,7 @@
 This project analyzes the relationship between various socioeconomic factors and voting patterns across U.S. counties. The authors use statistical methods to determine how factors such as unemployment rates, median income, urban influence, and education levels correlate with political preferences in elections.
 
 ## Dataset
+https://www.kaggle.com/datasets/adamcuculich/county-socioeconomic-education-and-voting-data
 The dataset contains county-level information with the following variables:
 - State and County names
 - FIPS (Federal Information Processing Standard) codes
