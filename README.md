@@ -5,6 +5,7 @@ This project analyzes the relationship between various socioeconomic factors and
 
 ## Dataset
 https://www.kaggle.com/datasets/adamcuculich/county-socioeconomic-education-and-voting-data
+
 The dataset contains county-level information with the following variables:
 - State and County names
 - FIPS (Federal Information Processing Standard) codes
